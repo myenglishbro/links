@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/linksnpm/static/css/main.073c9b0a.css",
-    "main.js": "/linksnpm/static/js/main.11fe5cc1.js",
-    "static/js/787.21abfffe.chunk.js": "/linksnpm/static/js/787.21abfffe.chunk.js",
-    "static/media/logo.svg": "/linksnpm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/linksnpm/index.html",
-    "main.073c9b0a.css.map": "/linksnpm/static/css/main.073c9b0a.css.map",
-    "main.11fe5cc1.js.map": "/linksnpm/static/js/main.11fe5cc1.js.map",
-    "787.21abfffe.chunk.js.map": "/linksnpm/static/js/787.21abfffe.chunk.js.map"
+    "main.css": "/linksnpm.git/static/css/main.073c9b0a.css",
+    "main.js": "/linksnpm.git/static/js/main.0d541b5f.js",
+    "static/js/787.21abfffe.chunk.js": "/linksnpm.git/static/js/787.21abfffe.chunk.js",
+    "static/media/logo.svg": "/linksnpm.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/linksnpm.git/index.html",
+    "main.073c9b0a.css.map": "/linksnpm.git/static/css/main.073c9b0a.css.map",
+    "main.0d541b5f.js.map": "/linksnpm.git/static/js/main.0d541b5f.js.map",
+    "787.21abfffe.chunk.js.map": "/linksnpm.git/static/js/787.21abfffe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.11fe5cc1.js"
+    "static/js/main.0d541b5f.js"
   ]
 }
